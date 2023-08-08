@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lmoreira1987
 - 👀 I’m interested in coding challenges and startup projects
-- 🌱 I’m currently learning data structures
+- 🌱 I’m currently finishing CS50 and learning python, data structures and so on
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
