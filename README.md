@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @lmoreira1987
 - 👀 I’m interested in coding challenges and startup projects
-- 🌱 I’m currently finishing CS50 and learning python, data structures and so on
+- 🌱 learning python, data structures and so on
+- I got CS50 and 
+- Just finishing an MBA in Portugal
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
