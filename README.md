@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding challenges and startup projects
 - 🌱 learning python, data structures and so on
 - I got CS50 and 
-- Just finishing an MBA in Portugal
+- Just finished an MBA in Portugal
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
